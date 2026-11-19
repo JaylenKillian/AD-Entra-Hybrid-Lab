@@ -44,6 +44,8 @@ Microsoft Entra ID tenant (jaylenkillian26outlook.onmicrosoft.com)
 <img width="1025" height="646" alt="Screenshot 2026-11-18 214920" src="https://github.com/user-attachments/assets/acb03e45-d1c8-44d2-9962-cf66c3c1688d" />
 <img width="1023" height="680" alt="Screenshot 2026-11-18 214703" src="https://github.com/user-attachments/assets/c9da9fee-63a0-4652-a4de-e78c343ed735" />
 <img width="1010" height="565" alt="Screenshot 2026-11-18 214635" src="https://github.com/user-attachments/assets/f2ead0df-58d7-4195-912a-f9c582542186" />
+<img width="707" height="446" alt="Screenshot 2026-11-18 214901" src="https://github.com/user-attachments/assets/7858fda9-c640-472b-ad2a-09301fc93036" />
+
 
 
 ## Challenges and Troubleshooting
@@ -68,4 +70,4 @@ Real problems I ran into and resolved, documented because this is the part inter
        (syncadmin@<tenant>.onmicrosoft.com) and used that instead.
 
     Takeaway: same error, different cause each time - the fix was "stop
-    using the personal account for admin," not retrying the same login.<img width="1912" height="1031" alt="Screenshot 2026-11-18 213649" src="https://github.com/user-attachments/assets/3a52c65d-1ae3-407c-ac83-e21cbc79bce8" />
+    using the personal account for admin," not retrying the same login.
