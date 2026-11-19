@@ -24,7 +24,7 @@ Microsoft Entra ID tenant (jaylenkillian26outlook.onmicrosoft.com)
 
 1. Created `DC01`, a Windows Server 2025 VM in VirtualBox, and promoted it to a domain controller for a new forest, `lab.local`.<img width="1912" height="1031" alt="Screenshot 2026-11-18 213649" src="https://github.com/user-attachments/assets/42b3a97f-6a9e-48c5-bd6f-ae19d6012b72" />
 
-2. Built an OU structure (`Lab > Employees`, `Lab > Groups`) and provisioned 10 test user accounts via a PowerShell script (`New-ADUser`) rather than the GUI, one at a time.<img width="752" height="367" alt="Screenshot 2026-11-18 213732" src="https://github.com/user-attachments/assets/ca2c29e7-3d25-4f86-9b0e-74647415a9fd" />
+2. Built an OU structure (`Lab > Employees`, `Lab > Groups`) and provisioned 10 test user accounts via a PowerShell script (`New-ADUser`) rather than the GUI, one at a time. <img width="752" height="367" alt="Screenshot 2026-11-18 213732" src="https://github.com/user-attachments/assets/ca2c29e7-3d25-4f86-9b0e-74647415a9fd" />
 
 3. Created two security groups (`Sales`, `IT-Support`) and assigned test users to each, based on role.<img width="757" height="330" alt="Screenshot 2026-11-18 213752" src="https://github.com/user-attachments/assets/a8178926-6b6c-485c-8205-7b66550c5595" />
 
